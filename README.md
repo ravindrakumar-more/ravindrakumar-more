@@ -26,7 +26,7 @@ Senior Software Engineer with **11+ years of experience** designing and deliveri
 ![Tailwind CSS](https://shields.io)
 ![Bootstrap](https://shields.io)
 ![GraphQL](https://shields.io)
-- **API & Docs:** REST APIs, GraphQL, Redocly, Zudoku ``
+- **API & Docs:** REST APIs, GraphQL, Redocly, Zudoku
 
 ### **Databases, Caching & Messaging**
 ![MongoDB](https://shields.io)
@@ -41,6 +41,7 @@ Senior Software Engineer with **11+ years of experience** designing and deliveri
 ![Docker](https://shields.io)
 ![Jenkins](https://shields.io)
 ![Nginx](https://shields.io)
+
 - **Servers & Testing:** Apache Tomcat, Netty, Akka HTTP, JUnit, Mockito, WireMock, Postman ``
 
 ### **AI / ML Exploration**
