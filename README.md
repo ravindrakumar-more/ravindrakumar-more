@@ -1,87 +1,47 @@
 # Hi there, I'm Ravindrakumar More 👋
 
 **Senior Software Engineer | Full Stack Developer | Tech Lead**  
-📍 Pune, India ``
+📍 Pune, India
 
-Senior Software Engineer with **11+ years of experience** designing and delivering scalable backend systems, enterprise REST APIs, and microservices using **Java, Spring Boot, and Play Framework** ``. Specialized in telecom identity, location, and verification platforms for banking, fintech, and enterprise clients ``.
+Backend-focused engineer with **11+ years of experience** designing scalable microservices, distributed systems, and high-throughput REST & GraphQL APIs. Passionate about clean architecture, developer-first API platforms, cloud-native deployments, and building practical Generative AI workflows.
 
 📫 **Connect with me:**  
-- **Email:** ravindrakumarmore79@gmail.com ``
-- **LinkedIn:** https://www.linkedin.com/in/ravindrakumar-more-03b3aa99/ ``
+- **Email:** ravindrakumarmore79@gmail.com  
+- **LinkedIn:** [Add your LinkedIn URL here]
 
 ---
 
 ## 🛠️ Tech Stack & Core Skills
 
-### **Languages & Frameworks**
-![Java](https://shields.io)
-![Python](https://shields.io)
-![Spring Boot](https://shields.io)
-![Spring Security](https://shields.io)
-![Play Framework](https://shields.io)
-![Hibernate](https://shields.io)
+[![Tech Stack](https://skillicons.dev)](https://skillicons.dev)
 
-### **Frontend & API Documentation**
-![React](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![Bootstrap](https://shields.io)
-![GraphQL](https://shields.io)
-- **API & Docs:** REST APIs, GraphQL, Redocly, Zudoku
-
-### **Databases, Caching & Messaging**
-![MongoDB](https://shields.io)
-![MySQL](https://shields.io)
-![Oracle](https://shields.io)
-![Redis](https://shields.io)
-![Apache Kafka](https://shields.io)
-![RabbitMQ](https://shields.io)
-
-### **Cloud, DevOps & Servers**
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-![Jenkins](https://shields.io)
-![Nginx](https://shields.io)
-
-- **Servers & Testing:** Apache Tomcat, Netty, Akka HTTP, JUnit, Mockito, WireMock, Postman ``
-
-### **AI / ML Exploration**
-- LangChain, RAG (Proof-of-Concept), CrewAI ``
+- **Languages:** Java (8, 21), Python (3.x)
+- **Backend & Frameworks:** Spring Boot, Spring MVC, Play Framework, Spring Security, Hibernate/JPA
+- **Architecture & APIs:** Microservices, Monolithic Systems, REST APIs, GraphQL, Redocly, Zudoku
+- **Databases & Caching:** MongoDB, MySQL, Oracle, Redis
+- **Messaging & Streaming:** Apache Kafka, RabbitMQ
+- **Cloud, DevOps & Servers:** AWS (EC2, S3), Docker, Jenkins, CI/CD, Nginx, Apache Tomcat, Netty, Akka HTTP
+- **Frontend:** React.js, Tailwind CSS, Bootstrap
+- **Testing & Quality:** JUnit, Mockito, WireMock, Postman
+- **AI / ML Exploration:** LangChain, RAG Architectures, CrewAI
 
 ---
 
-## 🚀 Featured Enterprise & Personal Projects
+## 🚀 Featured Projects
 
-### 1. Zumigo Assure – Radius Location & Identity Platform ``
-- **Overview:** Enterprise identity and location platform delivering MSISDN-based verification for fraud prevention, KYC, and transaction validation exposed as a REST API microservices system ``.
-- **Enterprise Clients:** PayPal, Msg91, Freight Tiger, and other enterprise API clients ``.
-- **Tech Stack:** Java, Spring Boot, Redis, MongoDB, MySQL, Apache Kafka, Nginx, AWS (EC2, S3), Jenkins ``.
+### 1. Developer API Platform & Self-Serve Portal
+- **What it does:** An end-to-end API marketplace and developer portal where users can browse available APIs, inspect interactive documentation, register an account, generate API keys, and start integrating immediately.
+- **Key Features:** Interactive API catalog, self-serve user onboarding & authentication, API key management, and live usage/sandbox testing.
+- **Tech Stack:** Java, Spring Boot, Spring Security, React.js, Tailwind CSS, Redis, MySQL/MongoDB, Docker
+- **Links:** [View Repository](https://github.com) | [Live Demo](#) *(Update links once published)*
 
-### 2. Zumigo Platform – Internal Client Onboarding & Config Console ``
-- **Overview:** Full-stack internal platform enabling operations teams to onboard new enterprise clients and manage service configurations end-to-end via a self-serve UI ``.
-- **Tech Stack:** React.js, Tailwind CSS (Frontend) | Play Framework / Java (Backend) | Jenkins CI/CD ``.
-
-### 3. Integrated Intelligent Transportation System (IITS) ``
-- **Overview:** Fleet management platform supporting route planning, real-time vehicle tracking, and MIS reporting for state transport corporations and enterprise logistics ``.
-- **Clients:** MSRTC Maharashtra, Adani Group, Assam State Transport, KSRTC, Castrol ``.
-- **Tech Stack:** Java, Spring Boot, Spring MVC, Hibernate, RabbitMQ, Redis ``.
-
-<!-- ADD MORE PERSONAL / OPEN-SOURCE PROJECTS BELOW -->
-### 4. [Your Personal / AI Project Name]
-- **Overview:** Brief description of what this project solves (e.g., LangChain RAG pipeline or Spring Boot microservice starter).
-- **Repository:** [Link to GitHub Repo](https://github.com)
-- **Tech Stack:** Python, LangChain, Spring Boot, Docker
+### 2. [Next Project Name — e.g., AI Knowledge Assistant (RAG)]
+- **What it does:** In the portal itself it provides help as support chat bot.
+- **Tech Stack:** Python, LangChain, CrewAI, Spring Boot
+- **Code:** [View Repository](https://github.com)
 
 ---
 
-## 💼 Experience Snapshot
+## 📊 GitHub Activity
 
-- **Senior Software Engineer** @ **Zumigo India Pvt. Ltd.** *(Sep 2017 – Present)* ``
-  - Architecting enterprise telecom identity and verification APIs, leading code reviews, mentoring developers, and building GenAI PoCs with LangChain & RAG ``.
-- **Software Engineer** @ **KPIT Technologies Ltd.** *(Mar 2015 – Jun 2017)* ``
-  - Built core backend modules, Redis caching, and RabbitMQ messaging for large-scale intelligent transportation systems ``.
-
----
-
-## 📊 GitHub Stats
-
-![Ravindrakumar's GitHub Stats](https://vercel.app)
+![GitHub Stats](https://vercel.app)
