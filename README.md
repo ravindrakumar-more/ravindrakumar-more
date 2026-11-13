@@ -35,7 +35,7 @@ Backend-focused engineer with **11+ years of experience** designing scalable mic
 - **Tech Stack:** Java, Spring Boot, Spring Security, React.js, Tailwind CSS, Redis, MySQL/MongoDB, Docker
 - **Links:** [View Repository](https://github.com) | [https://growing-estele-techraviapi-7352533b.koyeb.app/](#)
 
-### 2. [Next Project Name — e.g., AI Knowledge Assistant (RAG)]
+### 2. AI Knowledge Assistant (RAG)
 - **What it does:** In the portal itself it provides help as support chat bot.
 - **Tech Stack:** Python, LangChain, CrewAI, Spring Boot
 - **Code:** [View Repository]([https://github.com](https://growing-estele-techraviapi-7352533b.koyeb.app/)
