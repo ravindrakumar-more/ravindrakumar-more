@@ -7,7 +7,7 @@ Backend-focused engineer with **11+ years of experience** designing scalable mic
 
 📫 **Connect with me:**  
 - **Email:** ravindrakumarmore79@gmail.com  
-- **LinkedIn:** [Add your LinkedIn URL here]
+- **LinkedIn:** https://www.linkedin.com/in/ravindrakumar-more-03b3aa99
 
 ---
 
@@ -33,11 +33,16 @@ Backend-focused engineer with **11+ years of experience** designing scalable mic
 - **What it does:** An end-to-end API marketplace and developer portal where users can browse available APIs, inspect interactive documentation, register an account, generate API keys, and start integrating immediately.
 - **Key Features:** Interactive API catalog, self-serve user onboarding & authentication, API key management, and live usage/sandbox testing.
 - **Tech Stack:** Java, Spring Boot, Spring Security, React.js, Tailwind CSS, Redis, MySQL/MongoDB, Docker
-- **Links:** [View Repository](https://github.com) | [Live Demo](#) *(Update links once published)*
+- **Links:** [View Repository](https://github.com) | [https://growing-estele-techraviapi-7352533b.koyeb.app/](#)
 
 ### 2. [Next Project Name — e.g., AI Knowledge Assistant (RAG)]
 - **What it does:** In the portal itself it provides help as support chat bot.
 - **Tech Stack:** Python, LangChain, CrewAI, Spring Boot
+- **Code:** [View Repository]([https://github.com](https://growing-estele-techraviapi-7352533b.koyeb.app/)
+
+### 2. [Next Project Name — e.g., AI Based Email and API service]
+- **What it does:** Register and As per your need create email templates and with the help of AI. Use these template directly as rest API in your projects. Just pass required input and you do not need to manage anything in your code base. It will be handle by this project. 
+- **Tech Stack:** Spring Boot, React Js, LangChain. Reporting: Python and other tools
 - **Code:** [View Repository](https://github.com)
 
 ---
